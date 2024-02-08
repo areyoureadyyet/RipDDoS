@@ -1,5 +1,5 @@
  # RipDDoS
- # Made With ❤️ By TheRedHackingHub.
+ # Made With ❤️ By Soumeswar.
  # Performs DDoS Attacks Onto Vulnerable Websites.
  # Are you ready for your ethical hacking journey?
  # Disclaimer: This project is only made for ethical purposes. If any cyber crime activites happens because of this project, the creator of this project won't take any responsibility.
