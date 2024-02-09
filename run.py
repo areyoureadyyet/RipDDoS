@@ -39,6 +39,9 @@ try:
 	for i in range(threading_count):
 		thread = threading.Thread(target=attack)
 		thread.start()
+	i = input("Write \"QUIT\" to exit: ")
+	if i == "QUIT":
+		exit()
 except KeyboardInterrupt:
 	print()
 	print("[+] Program Closed")
